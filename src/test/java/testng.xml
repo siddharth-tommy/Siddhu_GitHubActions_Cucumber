@@ -9,7 +9,7 @@
     <test name="Complete test run">
         <classes>
             <class name="runner.TestRunner" />
-        </classes>
+        </classes> 
     </test>
 
 </suite>
